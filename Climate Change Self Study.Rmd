@@ -47,6 +47,7 @@ Five Warmest Years (Anomalies): 1st. 2016(+0.52°C), 2nd. 2019,2017(+0.39°C), 4
 ![Medieval Trend](Medieval Trend.png)
 
 
+##Literary Framework
 
 In their paper "Can Visualizations Save the World?"[^6], SHEPPARD, SHAW, FLANDERS and BURCH created specific frameworks for developing accurate and ethical visualizations that could make a significant impact, specifically in the community. I will be using these frameworks in developing an analysis of the visualizations I've found that apply to Global Climate Change.
 
@@ -76,7 +77,7 @@ My plan is to judge the above visualizations by narrowing this criteria down int
 <li> Relative to the point
 </ol>
 
-### Visualization Analysis
+## Visualization Analysis
 
 Based on these criteria, I can analyze the chosen visualizations.
 
